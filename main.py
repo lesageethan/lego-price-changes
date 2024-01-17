@@ -51,5 +51,17 @@ df = df.replace([np.inf, -np.inf], np.nan)
 print(df['Yearly Average Returns'].dropna().sum() / len(df['Yearly Average Returns'].dropna()))
 print(len(df['Yearly Average Returns'].dropna()))
 
+# Find weighted yearly average return of all sets
+# Create yearly average returns column
+df['First Year Weighted Return'] = (
+    df['Yearly Average Returns']*df['Primary market price at release']
+)
+
+df['Original Price where no NAs'] = (
+    np.where(~df['First Year Weighted Return'].isna(), df['Primary market price at release'], float('nan'))
+)
+
+print(df['First Year Weighted Return'].sum()/df['Original Price where no NAs'].sum())
+
 # Save CSV
 df.to_csv('new-data/dataframe_appended.csv')
