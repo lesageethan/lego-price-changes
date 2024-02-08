@@ -10,7 +10,7 @@ head(df)
 final_date = as.Date(paste0('01 ', 'January 2024'), format = '%d %B %Y')
 
 df <- df %>% 
-  filter(retail>0) %>%
+  filter(retail>100) %>%
   mutate(total_returns = value/retail) %>%
   mutate(retire_date_object = as.Date(paste0('01 ', retire_month), format = '%d %B %Y')) %>%
   mutate(years_since_retirement = as.numeric(difftime(final_date, retire_date_object, units = 'days'))/365) %>%
