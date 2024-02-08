@@ -1,8 +1,9 @@
+code, name, year, theme, pieces, url, figs, retail, unique_figs, rating, retire_month, value
 10217-1,Diagon Alley,2011,246,2032,https://cdn.rebrickable.com/media/sets/10217-1.jpg,12,132.99,6,4.7,January 2013,430.08
 10218-1,Pet Shop,2011,155,2034,https://cdn.rebrickable.com/media/sets/10218-1.jpg,4,119.99,4,4.7,November 2016,238.36
 10219-1,Maersk Container Train,2011,673,1233,https://cdn.rebrickable.com/media/sets/10219-1.jpg,3,91.99,3,4.8,November 2012,422.55
 10220-1,Volkswagen T1 Camper Van,2011,673,1332,https://cdn.rebrickable.com/media/sets/10220-1.jpg,0,79.99,0,4.6,December 2020,138.43
-10221-1,Super Star Destroyer,2011,171,3152,https://cdn.rebrickable.com/media/sets/10221-1.jpg,5,349.99,3,4.8,June 2014,"1,122.20"
+10221-1,Super Star Destroyer,2011,171,3152,https://cdn.rebrickable.com/media/sets/10221-1.jpg,5,349.99,3,4.8,June 2014,"1122.20"
 10222-1,Winter Village Post Office,2011,227,822,https://cdn.rebrickable.com/media/sets/10222-1.jpg,7,49.99,7,4.7,December 2012,420.65
 10223-1,Kingdoms Joust,2012,196,1575,https://cdn.rebrickable.com/media/sets/10223-1.jpg,9,99.99,6,4.2,December 2014,307.76
 10224-1,Town Hall,2012,155,2772,https://cdn.rebrickable.com/media/sets/10224-1.jpg,8,149.99,8,4.9,October 2014,724.37
@@ -42,7 +43,6 @@
 10262-1,James Bond Aston Martin DB5,2018,673,1297,https://cdn.rebrickable.com/media/sets/10262-1.jpg,0,129.99,0,4.9,January 2022,160.77
 10263-1,Winter Village Fire Station,2018,228,1166,https://cdn.rebrickable.com/media/sets/10263-1.jpg,8,84.99,7,4.8,December 2020,125.70
 10264-1,Corner Garage,2019,155,2569,https://cdn.rebrickable.com/media/sets/10264-1.jpg,6,159.99,6,4.9,December 2021,225.32
-10265-1,Ford Mustang,2019,673,1471,https://cdn.rebrickable.com/media/sets/10265-1.jpg,0,149.99,0,4.9,January 2024,146.60
 10266-1,NASA Apollo 11 Lunar Lander,2019,673,1087,https://cdn.rebrickable.com/media/sets/10266-1.jpg,2,84.99,2,4.9,December 2023,100.84
 10267-1,Gingerbread House,2019,228,1477,https://cdn.rebrickable.com/media/sets/10267-1.jpg,2,84.99,2,4.8,October 2021,113.59
 10268-1,Vestas Wind Turbine,2018,673,834,https://cdn.rebrickable.com/media/sets/10268-1.jpg,3,159.99,3,4.9,November 2020,226.63
@@ -171,7 +171,7 @@
 21134-1,The Waterfall Base,2017,577,729,https://cdn.rebrickable.com/media/sets/21134-1.jpg,4,74.99,2,4.7,November 2018,113.70
 21135-1,The Crafting Box 2.0,2017,577,717,https://cdn.rebrickable.com/media/sets/21135-1.jpg,2,79.99,1,4.8,December 2019,98.82
 21136-1,The Ocean Monument,2017,577,1122,https://cdn.rebrickable.com/media/sets/21136-1.jpg,2,119.99,1,4.8,March 2019,249.88
-21137-1,The Mountain Cave,2017,577,2863,https://cdn.rebrickable.com/media/sets/21137-1.jpg,6,259.99,4,5.0,December 2018,"1,739.57"
+21137-1,The Mountain Cave,2017,577,2863,https://cdn.rebrickable.com/media/sets/21137-1.jpg,6,259.99,4,5.0,December 2018,"1739.57"
 21141-1,The Zombie Cave,2018,577,241,https://cdn.rebrickable.com/media/sets/21141-1.jpg,3,19.99,1,4.7,November 2020,25.17
 21142-1,The Polar Igloo,2018,577,278,https://cdn.rebrickable.com/media/sets/21142-1.jpg,2,39.99,2,4.7,January 2020,64.38
 21143-1,The Nether Portal,2018,577,470,https://cdn.rebrickable.com/media/sets/21143-1.jpg,3,49.99,2,4.7,October 2020,93.32
@@ -323,9 +323,9 @@
 3866-1,Star Wars Battle of Hoth,2012,502,305,https://cdn.rebrickable.com/media/sets/3866-1.jpg,32,24.99,10,4.4,December 2013,77.58
 3920-1,The Hobbit: An Unexpected Journey,2012,502,394,https://cdn.rebrickable.com/media/sets/3920-1.jpg,4,24.99,4,4.6,November 2013,43.62
 3942-1,Heartlake Dog Show,2012,494,202,https://cdn.rebrickable.com/media/sets/3942-1.jpg,0,19.99,0,4.6,November 2012,43.50
-4000020-1,"H.C. Andersen's ""Clumsy Hans"" by D.H. Design (LEGO Inside Tour Version)",2015,599,714,https://cdn.rebrickable.com/media/sets/4000020-1.jpg,0,0,0,4.8,June 2015,"3,970.91"
-4000024-1,LEGO House Tree of Creativity,2017,599,1007,https://cdn.rebrickable.com/media/sets/4000024-1.jpg,6,0,0,4.9,September 2017,"2,348.17"
-4000025-1,Ferguson Tractor,2018,599,446,https://cdn.rebrickable.com/media/sets/4000025-1.jpg,0,0,0,5.0,May 2018,"2,201.68"
+4000020-1,"H.C. Andersen's ""Clumsy Hans"" by D.H. Design (LEGO Inside Tour Version)",2015,599,714,https://cdn.rebrickable.com/media/sets/4000020-1.jpg,0,0,0,4.8,June 2015,"3970.91"
+4000024-1,LEGO House Tree of Creativity,2017,599,1007,https://cdn.rebrickable.com/media/sets/4000024-1.jpg,6,0,0,4.9,September 2017,"2348.17"
+4000025-1,Ferguson Tractor,2018,599,446,https://cdn.rebrickable.com/media/sets/4000025-1.jpg,0,0,0,5.0,May 2018,"2201.68"
 40118-1,Buildable Brick Box 2x2,2014,408,203,https://cdn.rebrickable.com/media/sets/40118-1.jpg,1,12.99,1,4.5,January 2015,33.51
 40138-1,Christmas Train,2015,227,233,https://cdn.rebrickable.com/media/sets/40138-1.jpg,0,0,0,4.7,November 2015,37.31
 40158-1,Pirates Chess Set,2015,154,856,https://cdn.rebrickable.com/media/sets/40158-1.jpg,20,45.99,12,4.7,December 2016,107.76
@@ -352,7 +352,6 @@
 40338-1,Christmas Tree,2019,227,392,https://cdn.rebrickable.com/media/sets/40338-1.jpg,0,0,0,4.8,December 2019,68.05
 40353-1,"Reindeer, Elf & Elfie",2019,610,281,https://cdn.rebrickable.com/media/sets/40353-1.jpg,0,17.99,0,4.8,May 2021,21.80
 40371-1,Easter Egg,2020,229,239,https://cdn.rebrickable.com/media/sets/40371-1.jpg,0,0,0,4.6,April 2020,10.67
-40378-1,Goofy and Pluto,2020,610,214,https://cdn.rebrickable.com/media/sets/40378-1.jpg,0,13.49,0,4.7,January 2024,16.21
 40383-1,Bride,2020,610,306,https://cdn.rebrickable.com/media/sets/40383-1.jpg,0,11.99,0,4.6,November 2023,13.82
 40410-1,Charles Dickens Tribute,2020,227,333,https://cdn.rebrickable.com/media/sets/40410-1.jpg,3,0,3,4.8,November 2020,26.48
 40411-1,12 in 1 Rebuild Into,2020,598,240,https://cdn.rebrickable.com/media/sets/40411-1.jpg,0,0,0,4.7,July 2020,5.45
@@ -664,7 +663,6 @@
 50003-1,Batman,2013,502,257,https://cdn.rebrickable.com/media/sets/50003-1.jpg,8,19.99,8,4.7,September 2013,112.06
 50006-1,Legends Of Chima,2013,502,211,https://cdn.rebrickable.com/media/sets/50006-1.jpg,12,14.99,3,4.6,December 2013,27.18
 50011-1,The Battle of Helm's Deep,2013,502,338,https://cdn.rebrickable.com/media/sets/50011-1.jpg,28,29.99,11,4.8,September 2013,240.59
-5004590-1,Bat Pod,2015,697,338,https://cdn.rebrickable.com/media/sets/5004590-1.jpg,0,0,0,4.9,NA,"1,657.14"
 51515-1,Robot Inventor,2020,258,949,https://cdn.rebrickable.com/media/sets/51515-1.jpg,0,329.99,0,4.6,June 2023,483.75
 5765-1,Transport Truck,2011,672,276,https://cdn.rebrickable.com/media/sets/5765-1.jpg,0,18.99,0,4.4,November 2012,58.10
 5766-1,Log Cabin,2011,672,355,https://cdn.rebrickable.com/media/sets/5766-1.jpg,1,25.99,1,4.5,November 2013,62.36
@@ -765,7 +763,6 @@
 60139-1,Mobile Command Center,2017,61,374,https://cdn.rebrickable.com/media/sets/60139-1.jpg,4,39.99,1,4.5,November 2021,47.34
 60140-1,Bulldozer Break-In,2017,61,561,https://cdn.rebrickable.com/media/sets/60140-1.jpg,5,64.99,2,4.6,December 2018,106.15
 60141-1,Police Station,2017,61,894,https://cdn.rebrickable.com/media/sets/60141-1.jpg,7,84.99,4,4.7,January 2020,197.34
-60143-1,Auto Transport Heist,2017,61,403,https://cdn.rebrickable.com/media/sets/60143-1.jpg,4,39.99,1,4.7,NA,140.08
 60148-1,ATV Race Team,2017,63,239,https://cdn.rebrickable.com/media/sets/60148-1.jpg,2,17.99,2,4.6,December 2019,35.77
 60150-1,Pizza Van,2017,63,249,https://cdn.rebrickable.com/media/sets/60150-1.jpg,2,14.99,2,4.5,December 2019,28.39
 60151-1,Dragster Transporter,2017,52,333,https://cdn.rebrickable.com/media/sets/60151-1.jpg,2,24.99,2,4.6,November 2017,73.87
@@ -812,7 +809,7 @@
 60227-1,Lunar Space Station,2019,679,412,https://cdn.rebrickable.com/media/sets/60227-1.jpg,5,44.99,4,4.7,November 2020,55.79
 60228-1,Deep Space Rocket and Launch Control,2019,679,838,https://cdn.rebrickable.com/media/sets/60228-1.jpg,7,89.99,3,4.7,December 2021,102.53
 60229-1,Rocket Assembly & Transport,2019,679,1062,https://cdn.rebrickable.com/media/sets/60229-1.jpg,8,119.99,3,4.7,November 2021,121.86
-60230-1,People Pack – Space Research and Development,2019,679,209,https://cdn.rebrickable.com/media/sets/60230-1.jpg,15,34.99,12,4.7,December 2020,37.80
+60230-1,People Pack ï¿½ Space Research and Development,2019,679,209,https://cdn.rebrickable.com/media/sets/60230-1.jpg,15,34.99,12,4.7,December 2020,37.80
 60231-1,Fire Chief Response Truck,2019,58,201,https://cdn.rebrickable.com/media/sets/60231-1.jpg,2,17.99,0,4.5,January 2021,31.16
 60232-1,Garage Center,2019,52,234,https://cdn.rebrickable.com/media/sets/60232-1.jpg,4,34.99,3,4.5,December 2020,47.01
 60233-1,Donut Shop Opening,2019,52,790,https://cdn.rebrickable.com/media/sets/60233-1.jpg,10,79.99,8,4.8,January 2021,89.81
@@ -831,7 +828,6 @@
 60265-1,Ocean Exploration Base,2020,52,497,https://cdn.rebrickable.com/media/sets/60265-1.jpg,5,54.99,5,4.7,November 2022,75.99
 60266-1,Ocean Exploration Ship,2020,52,747,https://cdn.rebrickable.com/media/sets/60266-1.jpg,8,124.99,8,4.7,March 2022,168.20
 60268-1,City Advent Calendar 2020,2020,208,342,https://cdn.rebrickable.com/media/sets/60268-1.jpg,6,24.99,3,4.5,May 2021,29.30
-60270-1,Police Brick Box,2020,61,301,https://cdn.rebrickable.com/media/sets/60270-1.jpg,4,34.99,3,4.6,NA,43.07
 60271-1,Main Square,2020,52,1517,https://cdn.rebrickable.com/media/sets/60271-1.jpg,14,169.99,13,4.6,January 2022,156.57
 6244853-1,Lion Dance,2018,686,264,https://cdn.rebrickable.com/media/sets/6244853-1.jpg,0,0,0,4.9,January 2019,64.81
 6857-1,The Dynamic Duo Funhouse Escape,2012,697,379,https://cdn.rebrickable.com/media/sets/6857-1.jpg,5,39.99,1,4.7,November 2013,74.16
