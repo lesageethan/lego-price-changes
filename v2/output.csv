@@ -1,8 +1,9 @@
+set_num,name,year,theme_id,num_parts,img_url,figs,retail,unique_figs,rating,retire_month,value
 10217-1,Diagon Alley,2011,246,2032,https://cdn.rebrickable.com/media/sets/10217-1.jpg,12,132.99,6,4.7,January 2013,430.08
 10218-1,Pet Shop,2011,155,2034,https://cdn.rebrickable.com/media/sets/10218-1.jpg,4,119.99,4,4.7,November 2016,238.36
 10219-1,Maersk Container Train,2011,673,1233,https://cdn.rebrickable.com/media/sets/10219-1.jpg,3,91.99,3,4.8,November 2012,422.55
 10220-1,Volkswagen T1 Camper Van,2011,673,1332,https://cdn.rebrickable.com/media/sets/10220-1.jpg,0,79.99,0,4.6,December 2020,138.43
-10221-1,Super Star Destroyer,2011,171,3152,https://cdn.rebrickable.com/media/sets/10221-1.jpg,5,349.99,3,4.8,June 2014,"1,122.20"
+10221-1,Super Star Destroyer,2011,171,3152,https://cdn.rebrickable.com/media/sets/10221-1.jpg,5,349.99,3,4.8,June 2014,1122.20
 10222-1,Winter Village Post Office,2011,227,822,https://cdn.rebrickable.com/media/sets/10222-1.jpg,7,49.99,7,4.7,December 2012,420.65
 10223-1,Kingdoms Joust,2012,196,1575,https://cdn.rebrickable.com/media/sets/10223-1.jpg,9,99.99,6,4.2,December 2014,307.76
 10224-1,Town Hall,2012,155,2772,https://cdn.rebrickable.com/media/sets/10224-1.jpg,8,149.99,8,4.9,October 2014,724.37
@@ -171,7 +172,7 @@
 21134-1,The Waterfall Base,2017,577,729,https://cdn.rebrickable.com/media/sets/21134-1.jpg,4,74.99,2,4.7,November 2018,113.70
 21135-1,The Crafting Box 2.0,2017,577,717,https://cdn.rebrickable.com/media/sets/21135-1.jpg,2,79.99,1,4.8,December 2019,98.82
 21136-1,The Ocean Monument,2017,577,1122,https://cdn.rebrickable.com/media/sets/21136-1.jpg,2,119.99,1,4.8,March 2019,249.88
-21137-1,The Mountain Cave,2017,577,2863,https://cdn.rebrickable.com/media/sets/21137-1.jpg,6,259.99,4,5.0,December 2018,"1,739.57"
+21137-1,The Mountain Cave,2017,577,2863,https://cdn.rebrickable.com/media/sets/21137-1.jpg,6,259.99,4,5.0,December 2018,1739.57
 21141-1,The Zombie Cave,2018,577,241,https://cdn.rebrickable.com/media/sets/21141-1.jpg,3,19.99,1,4.7,November 2020,25.17
 21142-1,The Polar Igloo,2018,577,278,https://cdn.rebrickable.com/media/sets/21142-1.jpg,2,39.99,2,4.7,January 2020,64.38
 21143-1,The Nether Portal,2018,577,470,https://cdn.rebrickable.com/media/sets/21143-1.jpg,3,49.99,2,4.7,October 2020,93.32
@@ -323,9 +324,9 @@
 3866-1,Star Wars Battle of Hoth,2012,502,305,https://cdn.rebrickable.com/media/sets/3866-1.jpg,32,24.99,10,4.4,December 2013,77.58
 3920-1,The Hobbit: An Unexpected Journey,2012,502,394,https://cdn.rebrickable.com/media/sets/3920-1.jpg,4,24.99,4,4.6,November 2013,43.62
 3942-1,Heartlake Dog Show,2012,494,202,https://cdn.rebrickable.com/media/sets/3942-1.jpg,0,19.99,0,4.6,November 2012,43.50
-4000020-1,"H.C. Andersen's ""Clumsy Hans"" by D.H. Design (LEGO Inside Tour Version)",2015,599,714,https://cdn.rebrickable.com/media/sets/4000020-1.jpg,0,0,0,4.8,June 2015,"3,970.91"
-4000024-1,LEGO House Tree of Creativity,2017,599,1007,https://cdn.rebrickable.com/media/sets/4000024-1.jpg,6,0,0,4.9,September 2017,"2,348.17"
-4000025-1,Ferguson Tractor,2018,599,446,https://cdn.rebrickable.com/media/sets/4000025-1.jpg,0,0,0,5.0,May 2018,"2,201.68"
+4000020-1,"H.C. Andersen's ""Clumsy Hans"" by D.H. Design (LEGO Inside Tour Version)",2015,599,714,https://cdn.rebrickable.com/media/sets/4000020-1.jpg,0,0,0,4.8,June 2015,3970.91
+4000024-1,LEGO House Tree of Creativity,2017,599,1007,https://cdn.rebrickable.com/media/sets/4000024-1.jpg,6,0,0,4.9,September 2017,2348.17
+4000025-1,Ferguson Tractor,2018,599,446,https://cdn.rebrickable.com/media/sets/4000025-1.jpg,0,0,0,5.0,May 2018,2201.68
 40118-1,Buildable Brick Box 2x2,2014,408,203,https://cdn.rebrickable.com/media/sets/40118-1.jpg,1,12.99,1,4.5,January 2015,33.51
 40138-1,Christmas Train,2015,227,233,https://cdn.rebrickable.com/media/sets/40138-1.jpg,0,0,0,4.7,November 2015,37.31
 40158-1,Pirates Chess Set,2015,154,856,https://cdn.rebrickable.com/media/sets/40158-1.jpg,20,45.99,12,4.7,December 2016,107.76
@@ -664,7 +665,6 @@
 50003-1,Batman,2013,502,257,https://cdn.rebrickable.com/media/sets/50003-1.jpg,8,19.99,8,4.7,September 2013,112.06
 50006-1,Legends Of Chima,2013,502,211,https://cdn.rebrickable.com/media/sets/50006-1.jpg,12,14.99,3,4.6,December 2013,27.18
 50011-1,The Battle of Helm's Deep,2013,502,338,https://cdn.rebrickable.com/media/sets/50011-1.jpg,28,29.99,11,4.8,September 2013,240.59
-5004590-1,Bat Pod,2015,697,338,https://cdn.rebrickable.com/media/sets/5004590-1.jpg,0,0,0,4.9,NA,"1,657.14"
 51515-1,Robot Inventor,2020,258,949,https://cdn.rebrickable.com/media/sets/51515-1.jpg,0,329.99,0,4.6,June 2023,483.75
 5765-1,Transport Truck,2011,672,276,https://cdn.rebrickable.com/media/sets/5765-1.jpg,0,18.99,0,4.4,November 2012,58.10
 5766-1,Log Cabin,2011,672,355,https://cdn.rebrickable.com/media/sets/5766-1.jpg,1,25.99,1,4.5,November 2013,62.36
@@ -765,7 +765,6 @@
 60139-1,Mobile Command Center,2017,61,374,https://cdn.rebrickable.com/media/sets/60139-1.jpg,4,39.99,1,4.5,November 2021,47.34
 60140-1,Bulldozer Break-In,2017,61,561,https://cdn.rebrickable.com/media/sets/60140-1.jpg,5,64.99,2,4.6,December 2018,106.15
 60141-1,Police Station,2017,61,894,https://cdn.rebrickable.com/media/sets/60141-1.jpg,7,84.99,4,4.7,January 2020,197.34
-60143-1,Auto Transport Heist,2017,61,403,https://cdn.rebrickable.com/media/sets/60143-1.jpg,4,39.99,1,4.7,NA,140.08
 60148-1,ATV Race Team,2017,63,239,https://cdn.rebrickable.com/media/sets/60148-1.jpg,2,17.99,2,4.6,December 2019,35.77
 60150-1,Pizza Van,2017,63,249,https://cdn.rebrickable.com/media/sets/60150-1.jpg,2,14.99,2,4.5,December 2019,28.39
 60151-1,Dragster Transporter,2017,52,333,https://cdn.rebrickable.com/media/sets/60151-1.jpg,2,24.99,2,4.6,November 2017,73.87
@@ -831,7 +830,6 @@
 60265-1,Ocean Exploration Base,2020,52,497,https://cdn.rebrickable.com/media/sets/60265-1.jpg,5,54.99,5,4.7,November 2022,75.99
 60266-1,Ocean Exploration Ship,2020,52,747,https://cdn.rebrickable.com/media/sets/60266-1.jpg,8,124.99,8,4.7,March 2022,168.20
 60268-1,City Advent Calendar 2020,2020,208,342,https://cdn.rebrickable.com/media/sets/60268-1.jpg,6,24.99,3,4.5,May 2021,29.30
-60270-1,Police Brick Box,2020,61,301,https://cdn.rebrickable.com/media/sets/60270-1.jpg,4,34.99,3,4.6,NA,43.07
 60271-1,Main Square,2020,52,1517,https://cdn.rebrickable.com/media/sets/60271-1.jpg,14,169.99,13,4.6,January 2022,156.57
 6244853-1,Lion Dance,2018,686,264,https://cdn.rebrickable.com/media/sets/6244853-1.jpg,0,0,0,4.9,January 2019,64.81
 6857-1,The Dynamic Duo Funhouse Escape,2012,697,379,https://cdn.rebrickable.com/media/sets/6857-1.jpg,5,39.99,1,4.7,November 2013,74.16
@@ -1241,7 +1239,7 @@
 75186-1,The Arrowhead,2017,158,775,https://cdn.rebrickable.com/media/sets/75186-1.jpg,5,84.99,3,4.7,December 2018,147.32
 75187-1,BB-8,2017,158,1106,https://cdn.rebrickable.com/media/sets/75187-1.jpg,1,84.99,0,4.8,January 2020,154.32
 75188-1,Resistance Bomber,2017,158,780,https://cdn.rebrickable.com/media/sets/75188-1.jpg,6,99.99,0,4.8,March 2019,195.20
-75188-2,Resistance Bomber (Finch Dallow version),2018,158,780,https://cdn.rebrickable.com/media/sets/75188-2.jpg,5,99.99,1,5.0,July 2019,"1,480.43"
+75188-2,Resistance Bomber (Finch Dallow version),2018,158,780,https://cdn.rebrickable.com/media/sets/75188-2.jpg,5,99.99,1,5.0,July 2019,1480.43
 75189-1,First Order Heavy Assault Walker,2017,158,1376,https://cdn.rebrickable.com/media/sets/75189-1.jpg,5,129.99,2,4.4,April 2018,166.03
 75190-1,First Order Star Destroyer,2017,158,1416,https://cdn.rebrickable.com/media/sets/75190-1.jpg,8,129.99,4,4.8,October 2019,224.55
 75191-1,Jedi Starfighter with Hyperdrive,2017,158,832,https://cdn.rebrickable.com/media/sets/75191-1.jpg,4,89.99,2,4.9,July 2019,340.81
@@ -1460,7 +1458,6 @@
 76122-1,Batcave Clayface Invasion,2019,697,1073,https://cdn.rebrickable.com/media/sets/76122-1.jpg,6,94.99,3,4.8,December 2020,120.91
 76124-1,War Machine Buster,2019,702,362,https://cdn.rebrickable.com/media/sets/76124-1.jpg,4,29.99,2,4.7,January 2021,36.69
 76125-1,Iron Man Hall of Armour,2019,702,524,https://cdn.rebrickable.com/media/sets/76125-1.jpg,6,54.99,3,4.7,August 2021,49.24
-76126-1,Avengers Ultimate Quinjet,2019,702,838,https://cdn.rebrickable.com/media/sets/76126-1.jpg,6,74.99,3,4.2,January 2021,
 76127-1,Captain Marvel and The Skrull Attack,2019,696,307,https://cdn.rebrickable.com/media/sets/76127-1.jpg,3,24.99,1,4.7,October 2020,34.25
 76128-1,Molten Man Battle,2019,706,302,https://cdn.rebrickable.com/media/sets/76128-1.jpg,3,24.99,2,4.8,November 2020,39.96
 76129-1,Hydro-Man Attack,2019,706,479,https://cdn.rebrickable.com/media/sets/76129-1.jpg,4,34.99,3,4.6,February 2020,38.94
@@ -1511,3 +1508,112 @@
 79014-1,Dol Guldur Battle,2013,562,797,https://cdn.rebrickable.com/media/sets/79014-1.jpg,8,69.99,3,4.8,October 2015,202.83
 79016-1,Attack on Lake-town,2014,562,313,https://cdn.rebrickable.com/media/sets/79016-1.jpg,5,34.99,5,4.7,November 2015,95.16
 79017-1,The Battle of the Five Armies,2014,562,472,https://cdn.rebrickable.com/media/sets/79017-1.jpg,7,59.99,4,4.5,November 2015,187.05
+79103-1,Turtle Lair Attack,2013,570,488,https://cdn.rebrickable.com/media/sets/79103-1.jpg,5,49.99,5,4.8,November 2014,178.75
+79104-1,The Shellraiser Street Chase,2013,570,620,https://cdn.rebrickable.com/media/sets/79104-1.jpg,5,59.99,4,4.5,January 2015,135.07
+79105-1,Baxter Robot Rampage,2013,570,397,https://cdn.rebrickable.com/media/sets/79105-1.jpg,5,39.99,4,4.8,January 2014,106.41
+79108-1,Stagecoach Escape,2013,575,280,https://cdn.rebrickable.com/media/sets/79108-1.jpg,5,29.99,3,4.7,December 2013,103.39
+79109-1,Colby City Showdown,2013,575,588,https://cdn.rebrickable.com/media/sets/79109-1.jpg,5,39.99,3,4.7,December 2013,110.70
+79110-1,Silver Mine Shootout,2013,575,644,https://cdn.rebrickable.com/media/sets/79110-1.jpg,5,69.99,4,4.2,December 2013,104.28
+79111-1,Constitution Train Chase,2013,575,703,https://cdn.rebrickable.com/media/sets/79111-1.jpg,7,79.99,4,4.2,December 2013,201.20
+79115-1,Turtle Van Takedown,2014,570,368,https://cdn.rebrickable.com/media/sets/79115-1.jpg,4,39.99,3,4.7,August 2015,144.59
+79116-1,Big Rig Snow Getaway,2014,570,743,https://cdn.rebrickable.com/media/sets/79116-1.jpg,6,69.99,5,4.7,August 2015,107.88
+79117-1,Turtle Lair Invasion,2014,570,888,https://cdn.rebrickable.com/media/sets/79117-1.jpg,6,79.99,4,4.5,August 2015,180.05
+79120-1,T-Rawket Sky Strike,2014,570,286,https://cdn.rebrickable.com/media/sets/79120-1.jpg,4,29.99,3,4.8,December 2015,91.42
+79121-1,Turtle Sub Undersea Chase,2014,570,684,https://cdn.rebrickable.com/media/sets/79121-1.jpg,5,59.99,4,4.5,November 2015,98.53
+79122-1,Shredder's Lair Rescue,2014,570,478,https://cdn.rebrickable.com/media/sets/79122-1.jpg,5,49.99,4,4.8,January 2015,174.96
+7929-1,The Battle of Naboo,2011,158,241,https://cdn.rebrickable.com/media/sets/7929-1.jpg,12,25.99,0,4.7,October 2012,113.29
+7930-1,Bounty Hunter Gunship,2011,158,390,https://cdn.rebrickable.com/media/sets/7930-1.jpg,4,40.99,3,4.8,November 2012,143.03
+7931-1,Jedi T-6 Shuttle,2011,158,389,https://cdn.rebrickable.com/media/sets/7931-1.jpg,4,49.99,1,4.8,October 2012,234.14
+7957-1,Sith Nightspeeder,2011,158,214,https://cdn.rebrickable.com/media/sets/7957-1.jpg,3,25.99,3,4.7,October 2012,117.80
+7958-1,Star Wars Advent Calendar 2011,2011,209,267,https://cdn.rebrickable.com/media/sets/7958-1.jpg,9,24.99,3,4.6,November 2011,56.44
+7961-1,Darth Maul's Sith Infiltrator,2011,158,479,https://cdn.rebrickable.com/media/sets/7961-1.jpg,4,59.99,4,4.7,October 2012,144.25
+7962-1,Anakin's and Sebulba's Podracers,2011,158,810,https://cdn.rebrickable.com/media/sets/7962-1.jpg,5,81.99,4,4.7,November 2012,187.73
+7964-1,Republic Frigate,2011,158,1030,https://cdn.rebrickable.com/media/sets/7964-1.jpg,5,102.99,4,4.8,November 2012,531.02
+7965-1,Millennium Falcon,2011,158,1254,https://cdn.rebrickable.com/media/sets/7965-1.jpg,6,132.99,3,4.7,December 2014,204.86
+7978-1,Angler Attack,2011,315,201,https://cdn.rebrickable.com/media/sets/7978-1.jpg,2,18.99,1,4.6,November 2011,85.59
+7984-1,Deep Sea Raider,2011,315,265,https://cdn.rebrickable.com/media/sets/7984-1.jpg,2,25.99,1,4.6,January 2012,49.08
+7985-1,City of Atlantis,2011,315,687,https://cdn.rebrickable.com/media/sets/7985-1.jpg,5,49.99,4,4.8,December 2011,263.79
+80006-1,White Dragon Horse Bike,2020,693,259,https://cdn.rebrickable.com/media/sets/80006-1.jpg,4,24.99,0,4.7,May 2022,38.34
+80007-1,Iron Bull Tank,2020,693,430,https://cdn.rebrickable.com/media/sets/80007-1.jpg,4,39.99,0,4.7,May 2022,66.72
+80009-1,Pigsy's Food Truck,2020,693,832,https://cdn.rebrickable.com/media/sets/80009-1.jpg,5,54.99,1,4.8,November 2021,86.95
+80010-1,Demon Bull King,2020,693,1051,https://cdn.rebrickable.com/media/sets/80010-1.jpg,3,74.99,0,4.8,November 2021,154.76
+80011-1,Red Son's Inferno Truck,2020,693,1111,https://cdn.rebrickable.com/media/sets/80011-1.jpg,7,89.99,1,4.6,May 2022,127.62
+80012-1,Monkey King Warrior Mech,2020,693,1635,https://cdn.rebrickable.com/media/sets/80012-1.jpg,6,129.99,2,4.7,December 2022,156.44
+80013-1,Monkie Kid's Team Secret HQ,2020,693,1921,https://cdn.rebrickable.com/media/sets/80013-1.jpg,8,159.99,1,4.4,January 2023,146.08
+80014-1,Sandy's Speedboat,2020,693,394,https://cdn.rebrickable.com/media/sets/80014-1.jpg,4,44.99,1,4.6,August 2022,73.15
+80015-1,Monkie Kid's Cloud Roadster,2020,693,659,https://cdn.rebrickable.com/media/sets/80015-1.jpg,5,54.99,5,4.7,September 2022,82.72
+80016-1,The Flaming Foundry,2020,693,1429,https://cdn.rebrickable.com/media/sets/80016-1.jpg,7,119.99,1,4.6,March 2022,130.58
+80103-1,Dragon Boat Race,2019,686,645,https://cdn.rebrickable.com/media/sets/80103-1.jpg,15,44.99,15,4.7,November 2019,52.62
+80104-1,Lion Dance,2020,686,882,https://cdn.rebrickable.com/media/sets/80104-1.jpg,8,64.99,8,4.6,December 2020,94.68
+80105-1,Chinese New Year Temple Fair,2020,686,1664,https://cdn.rebrickable.com/media/sets/80105-1.jpg,14,89.99,13,4.6,November 2020,129.46
+8067-1,Mini Mobile Crane,2011,1,292,https://cdn.rebrickable.com/media/sets/8067-1.jpg,0,20.99,0,4.7,November 2012,82.98
+8068-1,Rescue Helicopter,2011,1,408,https://cdn.rebrickable.com/media/sets/8068-1.jpg,0,34.99,0,4.7,October 2012,130.45
+8069-1,Backhoe Loader,2011,1,609,https://cdn.rebrickable.com/media/sets/8069-1.jpg,0,49.99,0,4.7,November 2012,137.79
+8070-1,Supercar,2011,1,1281,https://cdn.rebrickable.com/media/sets/8070-1.jpg,0,99.99,0,4.7,November 2012,213.57
+8071-1,Lift Truck,2011,1,593,https://cdn.rebrickable.com/media/sets/8071-1.jpg,0,40.99,0,4.6,November 2012,119.34
+8081-1,Extreme Cruiser,2011,1,590,https://cdn.rebrickable.com/media/sets/8081-1.jpg,0,49.99,0,4.7,October 2012,165.51
+81000-1,Koi,2019,671,293,https://cdn.rebrickable.com/media/sets/81000-1.jpg,0,42.99,0,5.0,March 2020,209.26
+8109-1,Flatbed Truck,2011,1,1115,https://cdn.rebrickable.com/media/sets/8109-1.jpg,0,71.99,0,4.8,November 2012,370.46
+8110-1,Unimog U400,2011,1,2048,https://cdn.rebrickable.com/media/sets/8110-1.jpg,0,154.99,0,4.5,January 2014,236.84
+8484-1,Ultimate Build Lightning McQueen,2011,269,242,https://cdn.rebrickable.com/media/sets/8484-1.jpg,0,25.99,0,4.8,January 2012,265.73
+8486-1,Mack's Team Truck,2011,269,379,https://cdn.rebrickable.com/media/sets/8486-1.jpg,1,30.99,1,4.8,July 2012,316.98
+8487-1,Flo's V8 Caf�,2011,269,517,https://cdn.rebrickable.com/media/sets/8487-1.jpg,6,49.99,6,4.5,November 2012,184.06
+853373-1,Kingdoms Chess,2012,196,329,https://cdn.rebrickable.com/media/sets/853373-1.jpg,28,39.99,8,4.7,December 2013,256.40
+8638-1,Spy Jet Escape,2011,269,339,https://cdn.rebrickable.com/media/sets/8638-1.jpg,6,45.99,6,4.5,December 2011,80.32
+8639-1,Big Bentley Bust Out,2011,269,745,https://cdn.rebrickable.com/media/sets/8639-1.jpg,0,71.99,0,4.5,January 2012,118.26
+8677-1,Ultimate Build Mater,2011,269,288,https://cdn.rebrickable.com/media/sets/8677-1.jpg,0,25.53,0,4.8,December 2011,138.91
+8679-1,Tokyo International Circuit,2011,269,852,https://cdn.rebrickable.com/media/sets/8679-1.jpg,0,81.99,0,4.7,March 2012,183.30
+92176-1,NASA Apollo Saturn V,2020,576,1969,https://cdn.rebrickable.com/media/sets/92176-1.jpg,0,109.99,0,4.8,November 2022,148.23
+92177-1,Ship in a Bottle,2020,576,962,https://cdn.rebrickable.com/media/sets/92177-1.jpg,0,69.99,0,4.8,January 2022,89.09
+9348-1,Community Minifigures,2011,533,268,https://cdn.rebrickable.com/media/sets/9348-1.jpg,22,39.99,19,4.6,March 2012,65.74
+9349-1,Fairytale and Historic Minifigures,2011,507,230,https://cdn.rebrickable.com/media/sets/9349-1.jpg,22,39.99,22,4.2,June 2012,63.45
+9387-1,Wheels Set,2011,528,286,https://cdn.rebrickable.com/media/sets/9387-1.jpg,0,39.99,0,4.5,June 2012,48.96
+9391-1,Mini Crane,2012,1,218,https://cdn.rebrickable.com/media/sets/9391-1.jpg,0,14.99,0,4.5,December 2013,57.98
+9393-1,Tractor,2012,1,353,https://cdn.rebrickable.com/media/sets/9393-1.jpg,0,24.99,0,4.5,December 2013,108.40
+9394-1,Jet Plane,2012,1,499,https://cdn.rebrickable.com/media/sets/9394-1.jpg,0,29.99,0,4.3,December 2013,99.20
+9395-1,Pick-Up Tow Truck,2012,1,954,https://cdn.rebrickable.com/media/sets/9395-1.jpg,0,49.99,0,4.5,January 2014,163.76
+9396-1,Helicopter,2012,1,1056,https://cdn.rebrickable.com/media/sets/9396-1.jpg,0,69.99,0,4.6,December 2013,204.23
+9397-1,Logging Truck,2012,1,1308,https://cdn.rebrickable.com/media/sets/9397-1.jpg,0,99.99,0,4.5,December 2013,286.63
+9398-1,4 x 4 Crawler,2012,1,1327,https://cdn.rebrickable.com/media/sets/9398-1.jpg,0,139.99,0,4.6,December 2014,213.39
+9442-1,Jay's Storm Fighter,2012,435,234,https://cdn.rebrickable.com/media/sets/9442-1.jpg,2,19.99,0,4.5,November 2012,70.27
+9443-1,Rattlecopter,2012,435,327,https://cdn.rebrickable.com/media/sets/9443-1.jpg,3,24.99,1,4.8,October 2012,148.57
+9444-1,Cole's Tread Assault,2012,435,286,https://cdn.rebrickable.com/media/sets/9444-1.jpg,2,29.99,0,4.5,September 2012,143.88
+9445-1,Fangpyre Truck Ambush,2012,435,452,https://cdn.rebrickable.com/media/sets/9445-1.jpg,4,39.99,1,4.8,October 2012,285.13
+9446-1,Destiny's Bounty,2012,435,685,https://cdn.rebrickable.com/media/sets/9446-1.jpg,6,59.99,1,4.5,November 2012,226.06
+9447-1,Lasha's Bite Cycle,2012,435,250,https://cdn.rebrickable.com/media/sets/9447-1.jpg,2,19.99,0,4.8,December 2013,77.42
+9448-1,Samurai X Mech,2012,435,452,https://cdn.rebrickable.com/media/sets/9448-1.jpg,3,29.99,1,4.7,November 2013,124.33
+9449-1,Ultra Sonic Raider,2012,435,622,https://cdn.rebrickable.com/media/sets/9449-1.jpg,6,59.99,1,4.8,January 2015,226.12
+9450-1,Epic Dragon Battle,2012,435,915,https://cdn.rebrickable.com/media/sets/9450-1.jpg,7,89.99,2,4.8,February 2015,263.48
+9455-1,Fangpyre Mech,2012,435,255,https://cdn.rebrickable.com/media/sets/9455-1.jpg,2,19.99,0,4.7,September 2012,81.99
+9456-1,Spinner Battle Arena,2012,435,418,https://cdn.rebrickable.com/media/sets/9456-1.jpg,2,34.99,0,4.5,November 2012,79.83
+9457-1,Fangpyre Wrecking Ball,2012,435,415,https://cdn.rebrickable.com/media/sets/9457-1.jpg,3,49.99,0,4.7,October 2012,177.06
+9463-1,The Werewolf,2012,558,243,https://cdn.rebrickable.com/media/sets/9463-1.jpg,2,17.99,1,4.3,December 2013,47.36
+9464-1,The Vampire Hearse,2012,558,314,https://cdn.rebrickable.com/media/sets/9464-1.jpg,3,24.99,1,4.8,March 2014,91.63
+9465-1,The Zombies,2012,558,447,https://cdn.rebrickable.com/media/sets/9465-1.jpg,4,34.99,2,4.8,October 2012,257.78
+9466-1,The Crazy Scientist & His Monster,2012,558,430,https://cdn.rebrickable.com/media/sets/9466-1.jpg,4,39.99,2,4.5,November 2013,105.44
+9467-1,The Ghost Train,2012,558,744,https://cdn.rebrickable.com/media/sets/9467-1.jpg,5,59.99,1,4.7,November 2013,176.47
+9468-1,The Vampyre Castle,2012,558,949,https://cdn.rebrickable.com/media/sets/9468-1.jpg,7,79.99,1,4.5,November 2013,232.85
+9470-1,Shelob Attacks,2012,566,227,https://cdn.rebrickable.com/media/sets/9470-1.jpg,3,19.99,3,4.7,December 2013,101.21
+9471-1,Uruk-hai Army,2012,566,257,https://cdn.rebrickable.com/media/sets/9471-1.jpg,6,29.99,3,4.7,November 2013,153.77
+9472-1,Attack on Weathertop,2012,566,430,https://cdn.rebrickable.com/media/sets/9472-1.jpg,5,49.99,3,4.7,February 2013,189.69
+9473-1,The Mines of Moria,2012,566,781,https://cdn.rebrickable.com/media/sets/9473-1.jpg,9,69.99,4,4.5,November 2013,265.20
+9474-1,The Battle of Helm's Deep,2012,566,1367,https://cdn.rebrickable.com/media/sets/9474-1.jpg,8,99.99,3,4.7,November 2013,433.42
+9476-1,The Orc Forge,2012,566,363,https://cdn.rebrickable.com/media/sets/9476-1.jpg,4,39.99,2,4.7,November 2013,170.01
+9485-1,Ultimate Race Set,2012,269,280,https://cdn.rebrickable.com/media/sets/9485-1.jpg,0,24.99,0,4.7,October 2012,144.54
+9486-1,Oil Rig Escape,2012,269,422,https://cdn.rebrickable.com/media/sets/9486-1.jpg,0,49.99,0,4.2,December 2012,115.94
+9492-1,TIE Fighter,2012,158,413,https://cdn.rebrickable.com/media/sets/9492-1.jpg,4,49.99,3,4.7,February 2014,86.68
+9493-1,X-wing Starfighter,2012,158,560,https://cdn.rebrickable.com/media/sets/9493-1.jpg,4,49.99,1,4.6,January 2015,103.09
+9494-1,Anakin's Jedi Interceptor,2012,158,300,https://cdn.rebrickable.com/media/sets/9494-1.jpg,5,34.99,3,4.8,December 2013,141.36
+9495-1,Gold Leader's Y-wing Starfighter,2012,158,458,https://cdn.rebrickable.com/media/sets/9495-1.jpg,3,49.99,2,4.7,November 2013,101.67
+9496-1,Desert Skiff,2012,158,220,https://cdn.rebrickable.com/media/sets/9496-1.jpg,4,24.99,3,4.7,May 2014,64.40
+9497-1,Republic Striker Starfighter,2012,158,376,https://cdn.rebrickable.com/media/sets/9497-1.jpg,3,39.99,3,4.7,November 2013,151.37
+9498-1,Saesee Tiin's Jedi Starfighter,2012,158,244,https://cdn.rebrickable.com/media/sets/9498-1.jpg,3,29.99,2,4.8,March 2014,131.99
+9499-1,Gungan Sub,2012,158,466,https://cdn.rebrickable.com/media/sets/9499-1.jpg,4,54.99,3,4.8,December 2013,326.57
+9500-1,Sith Fury-Class Interceptor,2012,158,748,https://cdn.rebrickable.com/media/sets/9500-1.jpg,3,79.99,2,4.9,March 2014,362.57
+9509-1,Star Wars Advent Calendar 2012,2012,209,235,https://cdn.rebrickable.com/media/sets/9509-1.jpg,10,24.99,6,4.6,February 2013,66.03
+9515-1,The Malevolence,2012,158,1101,https://cdn.rebrickable.com/media/sets/9515-1.jpg,6,99.99,1,4.8,May 2014,388.37
+9516-1,Jabba's Palace,2012,158,717,https://cdn.rebrickable.com/media/sets/9516-1.jpg,9,119.99,6,4.8,March 2014,306.75
+9525-1,Pre Vizsla's Mandalorian Fighter,2012,158,403,https://cdn.rebrickable.com/media/sets/9525-1.jpg,3,49.99,1,4.8,May 2014,340.00
+9526-1,Palpatine's Arrest,2012,158,649,https://cdn.rebrickable.com/media/sets/9526-1.jpg,6,59.99,6,4.8,March 2014,454.25
+9558-1,Training Set,2012,435,219,https://cdn.rebrickable.com/media/sets/9558-1.jpg,1,14.99,0,4.4,November 2012,53.94
+YODACHRON-1,Yoda Chronicles Promotional Set,2013,158,413,https://cdn.rebrickable.com/media/sets/yodachron-1.jpg,3,0,4,5.0,May 2013,2851.33
