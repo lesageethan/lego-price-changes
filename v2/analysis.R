@@ -4,7 +4,7 @@ library(ggcorrplot)
 
 setwd('C:/Users/lesag/OneDrive - Cardiff University/Desktop/Github/lego-price-changes/v2')
 
-df <- read.csv('output.csv')
+df <- read.csv('output-brickset-ratings.csv')
 
 head(df)
 
@@ -15,6 +15,7 @@ df <- df %>%
   filter(num_parts>=00) %>%
   filter(rating>=0) %>%
   mutate(total_returns = value/retail) %>%
+  mutate(price_per_piece = retail/num_parts) %>%
   mutate(retire_date_object = as.Date(paste0('01 ', retire_month), format = '%d %B %Y')) %>%
   mutate(years_since_retirement = as.numeric(difftime(final_date, retire_date_object, units = 'days'))/365) %>% 
   filter(years_since_retirement>1) %>%
@@ -29,12 +30,17 @@ df %>% ggplot() +
 
 df %>% 
   ggplot() +
-  geom_boxplot(aes(group=rating, x=rating, y=cagr))
+  geom_boxplot(aes(group=brickset_rating, x=brickset_rating, y=cagr))
 
+df %>% ggplot() +
+  geom_point(aes(x=-price_per_piece, y=cagr, color=rating)) + 
+  scale_colour_gradientn(colours=rainbow(4))
 
 df_nums <- df %>% select(where(is.numeric))
 corr <- round(cor(df_nums), 1)
 ggcorrplot(corr)
+
+
 
 # df %>% ggplot() +
 #   geom_density(aes(x=cagr))
